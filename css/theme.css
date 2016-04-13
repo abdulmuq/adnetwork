@@ -43,9 +43,9 @@
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-size: 16px;
-  font-family: 'Noto Sans';
-  line-height: 30px;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0.1px;
   word-spacing: 4px;
   font-weight: 400;
@@ -518,6 +518,9 @@ blockquote .author {
 .bg-secondary {
   background: #f8f8f8;
 }
+.bg-white{
+  background: #fff;
+}
 .bg-dark {
   background: #292929;
 }
@@ -533,7 +536,7 @@ blockquote .author {
 /*!---------- 5. SECTIONS ----------*/
 section,
 footer {
-  padding: 100px 0;
+  padding: 50px 0;
   position: relative;
   overflow: hidden;
 }
@@ -2612,7 +2615,7 @@ form iframe.mail-list-form {
 }
 .page-title-3,
 .page-title-4 {
-  height: 240px;
+  height: 100px;
 }
 .page-title-4 .breadcrumb {
   position: relative;
