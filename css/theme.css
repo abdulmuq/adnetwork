@@ -536,7 +536,7 @@ blockquote .author {
 /*!---------- 5. SECTIONS ----------*/
 section,
 footer {
-  padding: 50px 0;
+  padding: 25px 0;
   position: relative;
   overflow: hidden;
 }
@@ -2160,7 +2160,7 @@ form iframe.mail-list-form {
   }
 }
 .icon-tabs .tabs li {
-  width: 24.5%;
+  width: 20%;
   margin-bottom: 24px;
 }
 .icon-tabs .tab-title {
@@ -2604,7 +2604,7 @@ form iframe.mail-list-form {
 .nav-is-overlay.page-title-1.bg-dark:first-child,
 .nav-is-overlay .page-title-2.image-bg:first-child,
 .nav-is-overlay.page-title-2.bg-dark:first-child {
-  height: 400px;
+  height: 200px;
   padding-top: 55px;
 }
 @media all and (max-width: 767px) {
