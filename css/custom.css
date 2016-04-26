@@ -291,3 +291,14 @@
 .width-60{
 	width:60%;
 }
+
+.width-80{
+	width: 80%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.module-post{
+	display: inline-block;
+}
